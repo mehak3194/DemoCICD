@@ -36,7 +36,7 @@
                               <muleVersion>${mule.version}</muleVersion>
                               <username>Mehakmini2</username>
                               <password>Mehakmini@03</password>
-                              <applicationName>azure-devops-app-demo</applicationName>
+                              <applicationName>azure-devops-app-demo-meha</applicationName>
                               <environment>Sandbox</environment>
                               <businessGroup>Apisero</businessGroup>
                               <workerType>SMALL</workerType>
